@@ -1,0 +1,7 @@
+python==3.8
+numpy==1.26.1
+scipy==1.11.4
+spikingjelly==0.0.0.0.14
+torch==2.1.0+cu118
+torchaudio==2.1.0+cu118
+torchvision==0.16.0+cu118
