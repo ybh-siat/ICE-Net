@@ -14,7 +14,6 @@ The dataset is public dataset.
 
 
 ```
-cd ICE_SNN
 sh train18.sh
 ```
 
